@@ -1,0 +1,33 @@
+button {
+    width: 200px;
+}
+label {
+    cursor: pointer;
+    margin-right: 10px;
+    position: relative;
+}
+
+#webfonts_example select {
+    display: block;
+    margin: 7px auto;
+}
+#webfonts_example textarea {
+    color: black;
+    display: block;
+    font-size: 20px;
+    margin: 7px auto;
+    text-align: center;
+    width: 90%;
+}
+#webfonts_example button {
+    margin: 7px;
+}
+
+#webfonts_fontList {
+    margin: 10px;
+    overflow: auto;
+}
+#webfonts_fontList label {
+    padding: 0 4px;
+    width: auto;
+}
