@@ -2,8 +2,6 @@ Brackets Google Web Fonts extension
 ===
 Proof of concept for buidling a Google Web Fonts link string from within the editor. Very hacky and quickly assembled.
 
-Originally I wanted to make it so that it would track your changes and apply them to html/css files as needed. Decided that was a bit much for an initial version. May not go that far since it's easy enough to go to Google's web site and get the CSS link string.
-
 To install this extension:
 In Brackets, under "Help" select "Show Extensions Folder". Place extension folder with files inside the "user" folder.
 Older versions of Brackets this choice might be under "Debug" or might not exist at all.
