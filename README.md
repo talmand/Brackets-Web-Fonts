@@ -1,3 +1,5 @@
+Please note, this extension is out of date and no longer being updated!
+
 Brackets Google Web Fonts extension
 ===
 Proof of concept for buidling a Google Web Fonts link string from within the editor. Very hacky and quickly assembled.
