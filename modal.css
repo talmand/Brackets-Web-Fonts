@@ -1,4 +1,4 @@
-button {
+#webfonts_addBtn, #webfonts_swpBtn, #webfonts_delBtn {
     width: 200px;
 }
 label {
