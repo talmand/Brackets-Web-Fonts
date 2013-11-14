@@ -1,7 +1,7 @@
 #webfonts_addBtn, #webfonts_swpBtn, #webfonts_delBtn {
     width: 200px;
 }
-label {
+label.webfonts_label {
     cursor: pointer;
     margin-right: 10px;
     position: relative;

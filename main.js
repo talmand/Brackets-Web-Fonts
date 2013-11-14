@@ -155,7 +155,7 @@ define(function (require, exports, module) {
         var string = "", i, chosenFontsLength = chosenFonts.length;
         if (chosenFontsLength > 0 && chosenFonts[0] !== "") {
             for (i = 0; i < chosenFontsLength; i++) {
-                string += '<label><input type="radio" name="fonts" value="' + chosenFonts[i] + '" /> ' + chosenFonts[i].replace(/\+/g, " ") + '</label>';
+                string += '<label class="webfonts_label"><input type="radio" name="fonts" value="' + chosenFonts[i] + '" /> ' + chosenFonts[i].replace(/\+/g, " ") + '</label>';
             }
             $("#webfonts_fontList").html(string);
         } else {
